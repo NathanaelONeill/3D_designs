@@ -4,7 +4,7 @@ This repository features a series of 3D models designed for use in acute and chr
 
 ---
 Each folder provides a rendering of the model, stl  materials, and who designed each part
----
+--
 
 ## Table of Contents
 1. [Rigging](#rigging)  
