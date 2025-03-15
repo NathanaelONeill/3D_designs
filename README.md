@@ -9,7 +9,7 @@ Each folder provides a rendering of the model, stl  materials, and who designed 
 ## Table of Contents
 1. [Rigging](#rigging)  
 2. [Implantation](#implantation)  
-3. [Apollo modifications](#Apollo-modifications)  
+3. [Apollo implant modifications](#apollo-implant-modifications)  
 
 ---
 
