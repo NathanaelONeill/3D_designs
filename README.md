@@ -9,7 +9,7 @@ Each folder provides a description and picture or rendering of the part, a .stl 
 ## Table of Contents
 1. [Rigging](./Rigging/README.md)  
 2. [Implantation](./Implantation/README.md)  
-3. [Apollo implant modifications](./Apollo implant Modifications/README.md)  
+3. [Apollo implant modifications](./Apollo%20implant%20modifications/README.md)  
 
 ---
 
