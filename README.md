@@ -1,4 +1,4 @@
-# 3D Designs for Neuropixels Experiments
+# 3D Designs for experiments using Neuropixels probes
 
 This repository features a series of 3D models designed for use in acute and chronic experiments using Neuropixels probes.
 
